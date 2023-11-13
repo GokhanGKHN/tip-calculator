@@ -16,4 +16,4 @@ KısıBasıDusen =(Toplam / KısıSayısı)
 Oran =(Toplam / KısıSayısı) * PahsisOranı
 Toplam =KısıBasıDusen + Oran
 
-print(Toplam)
+print(round(Toplam,2))
