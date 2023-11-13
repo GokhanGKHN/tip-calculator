@@ -8,7 +8,7 @@
 #Write your code below this line 👇
 
 print("Tip hesaplama uygulamasını kullandığınız için teşekkürler. ")
-Toplam =int(input("Lütfen fatura tutarını giriniz: ")) 
+Toplam =float(input("Lütfen fatura tutarını giriniz: ")) 
 PahsisOranı=float(input("Lütfen pahşişi oranını giriniz: "))
 KısıSayısı=int(input("Lütfen kişi sayısının giriniz: "))
 
