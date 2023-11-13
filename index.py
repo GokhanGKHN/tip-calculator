@@ -16,4 +16,4 @@ KısıBasıDusen =(Toplam / KısıSayısı)
 Oran =(Toplam / KısıSayısı) * PahsisOranı
 Toplam =KısıBasıDusen + Oran
 
-print(round(Toplam,2))
+print(f"The number rounded to two decimal places is {Toplam:.2f}")
